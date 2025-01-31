@@ -2,3 +2,8 @@
 {"_name":"gui","_gender":"M","_birth":"2025-01-07","_country":"Bahamas","_email":"gui@gui.com.br","_password":"12321","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:08:46.742Z","_id":"4IyPoenfMWQg6trP"}
 {"_name":"guilherme","_gender":"M","_birth":"2025-01-07","_country":"Bahamas","_email":"gui@gui.com.br","_password":"12321","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:09:42.879Z","_id":"4IyPoenfMWQg6trP"}
 {"_name":"guil","_gender":"M","_birth":"2025-01-07","_country":"Bahamas","_email":"gui@gui.com.br","_password":"12321","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:11:35.471Z","_id":"4IyPoenfMWQg6trP"}
+{"$$deleted":true,"_id":"4IyPoenfMWQg6trP"}
+{"_name":"teste","_gender":"M","_birth":"","_country":"Bahrain","_email":"silvioseferin@gmail.com","_password":"teste","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:19:32.218Z","_id":"RecbXiIcGtPUZ0bZ"}
+{"$$deleted":true,"_id":"RecbXiIcGtPUZ0bZ"}{"_name":"Testando","_gender":"M","_birth":"","_country":"Azerbaijan","_email":"testaando@gmail.com","_password":"234234","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:35:16.955Z","_id":"m276Zz6Z7eWmC6K4"}
+{"$$deleted":true,"_id":"m276Zz6Z7eWmC6K4"}
+{"_name":"testeee","_gender":"M","_birth":"","_country":"Bahamas","_email":"TESTE.SAIPOS@SAIPOS.COM","_password":"teste","_photo":"dist/img/boxed-bg.jpg","_admin":false,"_register":"2025-01-31T04:36:55.350Z","_id":"GuULrrtG6gYr2D1O"}
